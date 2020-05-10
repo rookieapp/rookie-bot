@@ -1,0 +1,1 @@
+ISSUES kısmından bug bildirebilirsiniz.
